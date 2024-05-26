@@ -2,7 +2,6 @@
 ## Função em Python para calcular o n-ésimo termo da sequência de Fibonacci.
 --
 ## Aqui está uma explicação do código:
---
 
 ### A sequência de Fibonacci é uma série numérica em que cada número é a soma dos
 ### dois anteriores, começando por 0 e 1. Os primeiros termos da sequência são:
@@ -26,7 +25,7 @@
 
 
 ## Instruções de configuração e execução:
---
+
 ### Certifique-se de ter o Python 3.7 ou superior instalado.
 ### Crie um ambiente virtual venv.
 
