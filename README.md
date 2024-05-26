@@ -1,6 +1,6 @@
 # Função Fibonacci
 ## Função em Python para calcular o n-ésimo termo da sequência de Fibonacci.
---
+
 ## Aqui está uma explicação do código:
 
 ### A sequência de Fibonacci é uma série numérica em que cada número é a soma dos
